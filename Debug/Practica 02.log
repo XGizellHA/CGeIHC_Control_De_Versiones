@@ -1,0 +1,10 @@
+﻿  practica2.cpp
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\CGIH_LAB\Practica 02\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica2.cpp")
+  
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\CGIH_LAB\Practica 02\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica2.cpp")
+  
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\CGIH_LAB\Practica 02\practica2.cpp(17,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\CGIH_LAB\Practica 02\practica2.cpp(583,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+  Practica 02.vcxproj -> C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\CGIH_LAB\Debug\Practica 02.exe
