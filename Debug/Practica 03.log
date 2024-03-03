@@ -1,0 +1,22 @@
+﻿  practica3.cpp
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica3.cpp")
+  
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica3.cpp")
+  
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\practica3.cpp(27,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\practica3.cpp(210,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\practica3.cpp(252,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\practica3.cpp(252,32): warning C4244:         with
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\practica3.cpp(252,32): warning C4244:         [
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\practica3.cpp(252,32): warning C4244:             _Ty=GLfloat
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\practica3.cpp(252,32): warning C4244:         ]
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\practica3.cpp(254,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\practica3.cpp(254,32): warning C4244:         with
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\practica3.cpp(254,32): warning C4244:         [
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\practica3.cpp(254,32): warning C4244:             _Ty=GLfloat
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\practica3.cpp(254,32): warning C4244:         ]
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\practica3.cpp(351,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 03\practica3.cpp(353,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Practica 03.vcxproj -> C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Debug\Practica 03.exe
