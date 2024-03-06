@@ -1,0 +1,23 @@
+﻿  practica4_sinjerarquía.cpp
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica4_sinjerarquía.cpp")
+  
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica4_sinjerarquía.cpp")
+  
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\practica4_sinjerarquía.cpp(31,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\practica4_sinjerarquía.cpp(197,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\practica4_sinjerarquía.cpp(239,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\practica4_sinjerarquía.cpp(239,32): warning C4244:         with
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\practica4_sinjerarquía.cpp(239,32): warning C4244:         [
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\practica4_sinjerarquía.cpp(239,32): warning C4244:             _Ty=GLfloat
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\practica4_sinjerarquía.cpp(239,32): warning C4244:         ]
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\practica4_sinjerarquía.cpp(241,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\practica4_sinjerarquía.cpp(241,32): warning C4244:         with
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\practica4_sinjerarquía.cpp(241,32): warning C4244:         [
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\practica4_sinjerarquía.cpp(241,32): warning C4244:             _Ty=GLfloat
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\practica4_sinjerarquía.cpp(241,32): warning C4244:         ]
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\practica4_sinjerarquía.cpp(335,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Practica 04\practica4_sinjerarquía.cpp(337,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Practica 04.vcxproj -> C:\Users\azul_\OneDrive\Documentos\Escuela\CGeIHC\2.0\Laboratorio\Practicas\Practica 03\Debug\Practica 04.exe
